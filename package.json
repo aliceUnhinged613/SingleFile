@@ -16,6 +16,6 @@
 		"request-promise-native": "1.0.8",
 		"selenium-webdriver": "4.0.0-alpha.7",
 		"strong-data-uri": "^1.0.6",
-		"yargs": "^15.4.1"
+		"yargs": "^16.0.0"
 	}
 }
